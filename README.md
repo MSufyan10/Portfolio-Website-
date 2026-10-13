@@ -39,4 +39,4 @@ I'm Muhammad Sufyan, a Frontend Developer from Karachi, Pakistan. Currently focu
 - Educational UI clone project - Not affiliated with Netflix, Inc.
 - No data collection - UI demo only
 - Tech: HTML, CSS, JS
-- Live: https://netflix-clone-project-10.vercel.app
+- Live: https://netflix-clone-4q0gv17n2-ms-ufyan10.vercel.app/
