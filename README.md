@@ -21,28 +21,22 @@ I'm Muhammad Sufyan, a Frontend Developer from Karachi, Pakistan. Currently focu
 - Project showcase with Live Demo + GitHub links
 - Contact section with direct links
 
-### 📂 Projects Showcased
+### 📁 Projects Showcased
 
 **1. Amazon Clone**
 - Responsive e-commerce UI with Flexbox
 - Tech: HTML, CSS, Responsive
 - Live: https://amazon-clone-ms-ufyan10.vercel.app
 
-**2. Weather App**
-- Live weather data using OpenWeather API + JS
-- Tech: JavaScript, API
-- Live: [Add your weather app Vercel link]
+**2. Tic Tac Toe - Interactive Game Project**
+- Developed interactive Tic Tac Toe game with win logic, draw detection, and reset functionality using pure JavaScript
+- Features: Player turn indicator, winning line highlight, score tracker, responsive grid - pure logic implementation
+- Tech: JavaScript, DOM Manipulation, Game Logic, HTML, CSS
+- Live: https://tic-tac-toe-plum-iota-61.vercel.app/
+- GitHub: https://github.com/MSufyan10/Tic-Tac-Toe
 
 **3. FlixHub - Movie Streaming UI (Netflix-inspired)**
 - Educational UI clone project - Not affiliated with Netflix, Inc.
 - No data collection - UI demo only
 - Tech: HTML, CSS, JS
 - Live: https://netflix-clone-project-10.vercel.app
-
-### 🛠️ Built With
-
-- HTML
-- CSS (Flexbox, Grid, Animations)
-- Vanilla JavaScript
-- Vercel (Deployment)
-
